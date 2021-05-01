@@ -1,0 +1,39 @@
+
+.title-nav{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+
+nav{
+    color: black;
+    font-size: 22px;
+    text-align: center;
+}
+h2{
+    color: black;
+    font-size: 20;
+    text-align: center; 
+}
+
+p{
+    color: green;
+    font-size: 14;
+    text-align:justify; 
+    margin-left:5%;
+    margin-right:5%;
+}
+
+ul,li{
+    color: green;
+    font-size: 14;
+    text-align:justify; 
+    margin-left:42%;
+    align-items:unset;
+   
+}
+.dvfrom{
+    color: rgb(92, 56, 56);
+    font-size: 26;
+    text-align: center;
+}
