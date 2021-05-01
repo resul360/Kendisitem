@@ -28,9 +28,7 @@ ul,li{
     color: green;
     font-size: 14;
     text-align:justify; 
-    margin-left:42%;
-    align-items:unset;
-   
+    align-items:center;
 }
 .dvfrom{
     color: rgb(92, 56, 56);
